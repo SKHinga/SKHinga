@@ -62,3 +62,6 @@ samuel = Person.new('Samuel Hinga')
 </a>
 <a href="https://www.linkedin.com/in/samuelhinga/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<a href="https://medium.com/@SKHinga" target="_blank">
+<img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor="></a>
