@@ -45,8 +45,8 @@ samuel = Person.new('Samuel Hinga')
 ```
 
 
-<h2 align="center">Github Stats</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SKHinga&theme=tokyonight&" alt="SKHinga" /></p>
+<h2>Github Stats</h2>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SKHinga&theme=tokyonight&" alt="SKHinga" /></p>
 
 <!-- ## Languages -->
 
