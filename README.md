@@ -29,7 +29,7 @@ class Person
   def technologies
     [
       {Design: 'Figma'},
-      {DataBase: 'PostgreSQL, 
+      {DataBase: 'PostgreSQL'}, 
       {VersionControl: 'Git'},
       {Hosting: 'Heroku, FireBase'}
     ]
@@ -45,13 +45,22 @@ samuel = Person.new('Samuel Hinga')
 ```
 
 
-<h2>Github Stats</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SKHinga&theme=tokyonight&" alt="SKHinga" /></p>
+### :octocat: My stats
+<table>
+  <tr>
+    <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=SKHinga&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
+    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SKHinga&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+  
+  </tr>   
+</table>
 
 <!-- ## Languages -->
 
  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SKHinga&layout=compact&show_icons=true&theme=tokyonight&hide=css,html)
  
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SKHinga&theme=oldie&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🥳 Let's Get Social
 <!-- 🌐 Follow me around the web! -->
