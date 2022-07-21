@@ -56,7 +56,7 @@ samuel = Person.new('Samuel Hinga')
 
 <!-- ## Languages -->
 
- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SKHinga&layout=compact&show_icons=true&theme=tokyonight&hide=css,html)
+ [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SKHinga&layout=compact&show_icons=true&theme=tokyonight&hide=css,html)](https://github.com/SKHinga/github-readme-stats)
  
 
 ## 🏆GitHub Trophies
